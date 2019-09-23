@@ -6,8 +6,8 @@
 ## コマンド
 
 ```
-git clone https://github.com/ttk1/n-body.git
-cd n-body
+git clone https://github.com/ttk1/n-body-js.git
+cd n-body-js
 npm install
 
 # dev-serverの起動
