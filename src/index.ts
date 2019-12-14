@@ -2,7 +2,7 @@ import { Particle } from './particle';
 import { Vec3 } from './vec3';
 
 // 質点数
-const N = 512;
+const N = 1024;
 // 万有引力定数
 const G = 6.67408e-11;
 // 時間の刻み幅
